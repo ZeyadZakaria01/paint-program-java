@@ -1,8 +1,3 @@
-# TL;DR
-This is a paint program using Java and Java form the GUI, we also used a lot of design patterns in to the application.
-The goal of this design is to provide a painting tool that allows the user to draw forms, color them, and make adjustments. 
-Only the user's mouse and imagination are required to create the desired image. 
-To make the painting process more forgiving for the user, the user may utilise a range of tools such as resize, copy, move, and alter colour, all with an undo-redo option.
-
-* __There is a PDF report in case you want to see the program without cloning the repo__
+# Paint Program
+This is a Java-based paint program with a graphical user interface (GUI) that incorporates various design patterns. Its purpose is to offer a versatile tool for users to create drawings by allowing them to draw shapes, apply colors, and make adjustments. The program makes use of the user's mouse and creativity to generate desired images. To enhance the user experience, it provides several features like resizing, copying, moving, and changing colors, all accompanied by an undo-redo functionality. If you prefer not to clone the repository, there is a PDF report available for viewing the program.
 
